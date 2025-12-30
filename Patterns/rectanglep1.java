@@ -13,9 +13,5 @@ public class rectanglep1 {
             }
             System.out.println();
         }
-    }
-
-
-
-    
+    }   
 }
